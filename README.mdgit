@@ -1,0 +1,1 @@
+"# platzi_bootstrap_2020"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/juancarlosmmoreno/platzi_bootstrap_2020.gitgit push -u origin master                
